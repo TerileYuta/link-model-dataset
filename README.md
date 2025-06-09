@@ -11,6 +11,8 @@
 ```cmd
 git clone https://github.com/TerileYuta/link-model-dataset.git
 
+cd link-model-dataset
+
 python -m venv venv
 
 source venv/bin/activate
